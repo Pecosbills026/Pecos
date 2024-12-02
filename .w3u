@@ -51,6 +51,7 @@
 
 {"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
+
 {"name": "CULTURA & ENTRETEMIENTO",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGH_sPY1_OI1peWn5anm6Z9mCnY4182-Xis_65K1TPNAw4xnWKEoVsTYs&s=10",
 "author": "Mexico - p.a.c.o.",
@@ -562,7 +563,7 @@
 
 {"name": "PRIVATE MOVIES",
 "image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://yourclubox.com/box/w3u/Movies02.m3u"},
+"url": "https://yourclubox.com/box/w3u/Movies02.m3u"}]},
 
 {"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
