@@ -52,10 +52,6 @@
 {"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
 
-{"name": "PRIVATE TV",
-"image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A2/refs/heads/main/.w3u"},
-
 {"name": "PRIVATE MOVIES",
 "image": "https://yourclubox.com/box/Logos/img1.png",
 "url": "https://yourclubox.com/box/w3u/Movies02.m3u"},
