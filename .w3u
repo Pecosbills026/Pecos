@@ -19,30 +19,3 @@
 {"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
 
-{"name": "PRIVATE MOVIES",
-"image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://yourclubox.com/box/w3u/Movies02.m3u"},
-
-{"name": "MOVIES VARIOS GENEROS",
-"image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
-"stations": [
-
-{"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
-
-{"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
-
-{"name": "PRIVATE SERIES",
-"image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://yourclubox.com/box/w3u/Series02.m3u"},
-
-{"name": "SERIES GENERAL",
-"image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
-"stations": [
-
-{"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
-
-{"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
