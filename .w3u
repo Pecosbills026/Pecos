@@ -5,10 +5,6 @@
 "info": "Private tv *tv, películas & series*",
 "stations": [
 
-{"name": "PRIVATE TV",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6_cYDlwEyQkQnERNZlEPJr9BdbbRiTJAEA&usqp=CAU",
-"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A2/refs/heads/main/.w3u"},
-
 {"name": "TV ABIERTA",
 "image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
 "groups": [
