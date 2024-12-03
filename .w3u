@@ -1,15 +1,9 @@
 {"name": "PRIVATE TV",
-"author": "P.A.C.O. ©2025",
-"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A1/refs/heads/main/.w3u",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLV4dAGN_qfVJvwDpiSu1M8wP8gbHYSmhSJuqWAW9aiW4M9lLBysTROM&s=10",
-"info": "Private tv *tv, películas & series*",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLV4dAGN_qfVJvwDpiSu1M8wP8gbHYSmhSJuqWAW9aiW4M9lLBysTROM&s=10",
+"author": "P.A.C.O. @2026",
 "groups": [
 
-{"name": "PRIVATE TV",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6_cYDlwEyQkQnERNZlEPJr9BdbbRiTJAEA&usqp=CAU",
-"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A2/refs/heads/main/.w3u"},
-
-{"name": "TV ABIERTA",
+{"name": "CANALES DE TV",
 "image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
 "stations": [
 
@@ -559,29 +553,24 @@
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/212"},
 
 {"name":"WARNER","image":"http://descargas.podzone.net/logos/-warner.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1155808"},
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1155808"}]},
 
-{"name": "PRIVATE MOVIES",
-"image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://yourclubox.com/box/w3u/Movies02.m3u"},
+{"name": "PELÍCULAS",
+"image": "AQUÍ VA EL LOGO DEL GRUPO", 
+"stations": [
 
-{"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
+{"name":"WIN SPORTS SD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yaOs8r7CUIdPAjetlFVZpigjkBfJvU9Z4vA_r2eV1w&s", 
+"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/297.m3u8"},
 
-{"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
+{"name":"ÚLTIMO CANAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1VdQngaQL_WSZZJ9m2F-NfkSnBRy27NgDyg&usqp=CAU",
+"url":"http://digital.nicesecrethotdigital.xyz:80/live/te1024735/aaQnnxsjuS3A/957812.ts"}]},
 
-{"name": "PRIVATE SERIES",
-"image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://yourclubox.com/box/w3u/Series02.m3u"}]},
+{"name": "SERIES",
+"image": "AQUI VA EL LOGO DEL GRUPO", 
+"stations": [
 
-{"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
+{"name":"VALLENATO INTERNACIONAL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiBtwLnr8ZIyARph_j0yF2OIUC5uBJju_RA&usqp=CAU", 
+"url":"https://server80.servistreaming.com:3884/hybrid/play.m3u8"},
 
-{"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
-
-{"name":"WARNER OPC2","image":"http://descargas.podzone.net/logos/-warner.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4053"}]}]}]}{"name": "PRIVATE TV",
-
-
+{"name":"ÚLTIMO CANAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiBtwLnr8ZIyARph_j0yF2OIUC5uBJju_RA&usqp=CAU",
+"url":"https://glb.bozztv.com/glb/ssh101/telemed2/playlist.m3u8"}]}]}]}
