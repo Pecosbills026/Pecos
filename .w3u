@@ -5,10 +5,6 @@
 "info": "Private tv *tv, películas & series*",
 "stations": [
 
-{"name": "PRIVATE TV",
-"image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A2/refs/heads/main/.w3u"},
-
 {"name": "TV ABIERTA",
 "image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
 "groups": [
@@ -55,7 +51,7 @@
 {"name": "CULTURA & ENTRETEMIENTO",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGH_sPY1_OI1peWn5anm6Z9mCnY4182-Xis_65K1TPNAw4xnWKEoVsTYs&s=10",
 "author": "Mexico - p.a.c.o.",
-"stations": [
+"groups": [
 
 {"name":"ANIMAL PLANET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXZIMkXsuzfDaSnKC6CgHJdbtcHeQTh1qjS1sM4QIrQ&s", 
 "url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/61.ts"},
@@ -134,7 +130,7 @@
 
 {"name": "DEPORTES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2KT5PQ8jFr5-rQnV9If4kw0-eBg_6Ko5RA&usqp=CAU", 
-"stations": [
+"groups": [
 
 {"name":"AZTECA DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-q76RnjB6u3hq7YLGWwInuyNLWZQU1bBlspIgX_0ABOX--FV-pe7n7c&s=10",
 "url":"http://xcm.budtv-ultra.com:25461/bud-2597559/7f84c9456d/278577"},
@@ -219,7 +215,7 @@
 
 {"name": "CINE & 24/7",
 "image": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-24-7-hour-service-label-design-with-free-vector-png-image_6568820.png", 
-"stations": [
+"groups": [
 
 {"name":"CINE ACCION","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-1najiqGIz96XRi6NDLCXy1cXXM1iYIDtQ&usqp=CAU",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1180733"},
@@ -292,7 +288,7 @@
 
 {"name": "CINE & SERIES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsgCCTYBOKfu6IABjOT75t3INsEPnsMpF6-Hh5K1BCmJPaCxkzybTxlTr&s=10", 
-"stations": [
+"groups": [
 
 {"name":"A&E","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2qP7YGQzB9UMyx0aLqT_rNc5GUfgOM0-tJSNMEWg1-uZHL7Ktmvf4QWH&s=10",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/59578"},
