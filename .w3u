@@ -8,6 +8,7 @@
 {"name": "PRIVATE TV",
 "image": "https://yourclubox.com/box/Logos/img1.png",
 "url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A2/refs/heads/main/.w3u"},
+"groups": [
 
 {"name": "TV ABIERTA",
 "image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
