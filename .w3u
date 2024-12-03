@@ -2,12 +2,12 @@
 "author": "P.A.C.O. @2026",
 "url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A1/refs/heads/main/.w3u",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLV4dAGN_qfVJvwDpiSu1M8wP8gbHYSmhSJuqWAW9aiW4M9lLBysTROM&s=10",
-"info": "Replay tv *tv, películas & series*",
-"stations": [
+"info": "Private tv *tv, películas & series*",
+"groups": [
 
 {"name": "PRIVATE TV",
 "image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A2/refs/heads/main/.w3u"},
+"url": "https://raw.githubusercontent.com/Etelio79/A2/refs/heads/main/.w3u"},
 
 {"name": "PRIVATE MOVIES",
 "image": "https://yourclubox.com/box/Logos/img1.png",
