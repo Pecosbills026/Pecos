@@ -1,18 +1,18 @@
 {"name": "PRIVATE TV",
 "author": "P.A.C.O. @2026",
-"url": "https://raw.githubusercontent.com/Etelio79/A1/refs/heads/main/.w3u",
+"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A1/refs/heads/main/.w3u",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLV4dAGN_qfVJvwDpiSu1M8wP8gbHYSmhSJuqWAW9aiW4M9lLBysTROM&s=10",
 "info": "Replay tv *tv, películas & series*",
 "stations": [
 
-{"name": "REPLAY TV",
-"image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://raw.githubusercontent.com/Etelio79/A2/refs/heads/main/.w3u"},
+{"name": "PRIVATE TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-igvXEw4OqTGBxdsaMTIuuQ87E-Pa9LHWag&s",
+"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A2/refs/heads/main/.w3u"},
 
-{"name": "REPLAY MOVIES",
-"image": "https://yourclubox.com/box/Logos/img1.png",
+{"name": "PRIVATE MOVIES",
+"image": "https://img.freepik.com/vector-gratis/tiempo-pelicula-neon_24908-55563.jpg?t=st=1733246616~exp=1733250216~hmac=1f5cdc0069e055060ff4f26b39cd1299f881d67de33dbdbf2a5ac",
 "url": "https://yourclubox.com/box/w3u/Movies02.m3u"},
 
-{"name": "REPLAY SERIES",
-"image": "https://yourclubox.com/box/Logos/img1.png",
+{"name": "PRIVATE SERIES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS489LeHvQ95fMEIh-NplDY601l8cQMoo3MA&usqp=CAU",
 "url": "https://yourclubox.com/box/w3u/Series02.m3u"}]},
