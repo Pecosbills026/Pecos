@@ -3,7 +3,7 @@
 "url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A1/refs/heads/main/.w3u",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLV4dAGN_qfVJvwDpiSu1M8wP8gbHYSmhSJuqWAW9aiW4M9lLBysTROM&s=10",
 "info": "Private tv *tv, películas & series*",
-"groups": [
+"stations": [
 
 {"name": "PRIVATE TV",
 "image": "https://yourclubox.com/box/Logos/img1.png",
@@ -14,5 +14,5 @@
 "url": "https://yourclubox.com/box/w3u/Movies02.m3u"},
 
 {"name": "PRIVATE SERIES",
-"image": "https://yourclubox.com/box/Logos/img1.png",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS489LeHvQ95fMEIh-NplDY601l8cQMoo3MA&usqp=CAU",
 "url": "https://yourclubox.com/box/w3u/Series02.m3u"}]},
