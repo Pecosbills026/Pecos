@@ -9,11 +9,126 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6_cYDlwEyQkQnERNZlEPJr9BdbbRiTJAEA&usqp=CAU", 
 "stations": [
 
-{"name":"CARACOL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_wNI_rShEj9n_0tj0ZqT3qm2fyw1KiCPihWIni-L1w&s", 
-"url":"http://streamsy.online:2999/live/happy2024/newyear/284.m3u8"},
+{"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
+"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
 
-{"name":"ULTIMO CANAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_wNI_rShEj9n_0tj0ZqT3qm2fyw1KiCPihWIni-L1w&s",
-"url":"https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8"}]},
+{"name":"ADN40","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLpaYsGCkxzWIuBqJSVHRy1_Ioul2xaD7SvyvyZGWjndfCxZuXKYXTLQ&s=10 ",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4025"},
+
+{"name":"AZTECA UNO","image":"http://descargas.podzone.net/logos/-azteca-uno.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4087"},
+
+{"name":"AZTECA UNO OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155859"},
+
+{"name":"AZTECA 7","image":"http://descargas.podzone.net/logos/-azteca-7.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4027"},
+
+{"name":"AZTECA 7 OPC2","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155862"},
+
+{"name":"LAS ESTRELLAS","image":"http://descargas.podzone.net/logos/-el-canal-de-las-estrellas.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4030"},
+
+{"name":"LAS ESTRELLAS OPC2","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png",
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/632"},
+
+{"name":"CANAL 5","image":"http://descargas.podzone.net/logos/-canal-5-mx.png", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4028"},
+
+{"name":"CANAL 5 OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq4TvwEszIux8o5WiN-wBD7A7grtu73Ulzg&usqp=CAU",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155865"},
+
+{"name":"CANAL NUEVE","image":"http://descargas.podzone.net/logos/-nueve.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155855"},
+
+{"name":"IMAGEN TV","image":"http://descargas.podzone.net/logos/-imagen-tv.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1124600"},
+
+{"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
+
+{"name": "CULTURA & ENTRETEMIENTO",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGH_sPY1_OI1peWn5anm6Z9mCnY4182-Xis_65K1TPNAw4xnWKEoVsTYs&s=10",
+"author": "Mexico - p.a.c.o.",
+"stations": [
+
+{"name":"ANIMAL PLANET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXZIMkXsuzfDaSnKC6CgHJdbtcHeQTh1qjS1sM4QIrQ&s", 
+"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/61.ts"},
+
+{"name":"ANIMAL PLANET OPC2", "image":"http://descargas.podzone.net/logos/-animal-planet.png", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4067"},
+
+{"name":"COMEDIA CENTRAL", "image":"http://descargas.podzone.net/logos/-comedy-central.png", 
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4039"},
+
+{"name":"DISCOVERY CHANNEL ESPAÑOL", "image":"http://descargas.podzone.net/logos/-discovery-en-espanol.png", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/56304"},
+
+{"name":"DISCOVERY CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCMhRQlAbGsZdiZU2N5V-MIdx8eorGCU3bg&usqp=CAU", 
+"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/60.ts"},
+
+{"name":"DISCOVERY CHANNEL OPC2","image":"http://descargas.podzone.net/logos/-discovery-channel.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4069"},
+
+{"name":"DISCOVERY TURBO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UYF3YelMPGVrh056vcNhUpZln0pELkUydJh88iKUeg&s",
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/420"},
+
+{"name":"DISCOVERY TURBO OPC2","image":"http://descargas.podzone.net/logos/-discovery-turbo.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4075"},
+
+{"name":"DISTRITO COMEDIA","image":"http://descargas.podzone.net/logos/-distrito-comedia.png", 
+"url":"http://alfa.7057460.xyz:2095/electrocel300823/300823electrocel/7043"},
+
+{"name":"E!", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt6zVw9UwwMu7QL5CW0QpLULiy2BGcd1XbA&usqp=CAU", 
+"url":"http://alfa.7057460.xyz:2095/electrocel300823/300823electrocel/7250"},
+
+{"name":"E! OPC2", "image":"http://descargas.podzone.net/logos/-E!-entertainment.png", 
+"url":"http://ultrapremium.cloud:8080/964911974tv/s2hv65/628"},
+
+{"name":"HISTORY","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9PqAOsM6V8WAQiJKwlTzEBJp6KD0nB-BNA&usqp=CAU", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155804"},
+
+{"name":"HISTORY OPC2","image":"http://descargas.podzone.net/logos/-history.png", 
+"url":"http://alfa.7057460.xyz:2095/electrocel300823/300823electrocel/7225"},
+
+{"name":"HISTORY 2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1F7NW-q1E1JtxtFr2xpbgTmQ_lrHI-IFPg&usqp=CAU", 
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/430"},
+
+{"name":"HISTORY 2 OPC2","image":"http://descargas.podzone.net/logos/-H2-(history2).png", 
+"url":"http://new-tv.cloud:25461/delgado2022/Dajael1991/563771"},
+
+{"name":"H&H", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9N_dtgZ13VCCmVcLQTh7--n5sg7ezfD8U2g&usqp=CAU", 
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/411"},
+
+{"name":"H&H OPC2","image":"http://descargas.podzone.net/logos/-discovery-home-&-health.png", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4070"},
+
+{"name":"HGTV","image":"http://live.iptvlatino.cc/stream_icons_mx/hgtv.png", 
+"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1176"},
+
+{"name":"HGTV OPC2","image":"http://descargas.podzone.net/logos/-HGTV.png", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155823"},
+
+{"name":"ID","image":"https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", 
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/438"},
+
+{"name":"ID OPC2","image":"http://descargas.podzone.net/logos/-discovery-ID.png", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1156012"},
+
+{"name":"TLC","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEirV6VkRwVLZlwgze-uHWE0H52jCAtv9oDA&s", 
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/447"},
+
+{"name":"TLC OPC2","image":"http://descargas.podzone.net/logos/-discovery-TLC.png", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155820"},
+
+{"name":"NATGEO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSb8VPwpuAYlLdvYfuIPhG96AMwz15GgoFraTRXEH23w&s", 
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/440"},
+
+{"name":"NATGEO OPC2","image":"http://descargas.podzone.net/logos/-NATGEO.png",
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/440"}]},
+
+
 
 {"name": "PELÍCULAS",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTBlTy-ybk5_1hes7D5xLZTs4pMXUFCdSlCUYMouxllHfORJKOTNBAM2kk&s=10", 
@@ -39,6 +154,15 @@
 
 {"name":"La Forja (2024)", "image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ykbt5oFxeu292SMZPqZTi1jKff.jpg", 
 "url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1220196.mkv"},
+
+{"name":"Robot salvaje (2024)", "image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg", 
+"url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1220914.mkv"},
+
+{"name":"Transformers One (2024)", "image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynqqkPy8RiawjGtWFIsF9pmYZtJ.jpg", 
+"url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1221347.mkv"},
+
+{"name":"Venom: El último baile (2024)", "image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0obWWCLRVRqRzlSK1LSGtADkLM.jpg", 
+"url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1221835.mkv"},
 
 {"name":"Tornados (2024)","image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg",
 "url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1215400.mkv"}]},
