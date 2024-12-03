@@ -1,24 +1,19 @@
-{"name": "PRIVATE TV",
-"author": "P.A.C.O. ©2025",
-"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A1/refs/heads/main/.w3u",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLV4dAGN_qfVJvwDpiSu1M8wP8gbHYSmhSJuqWAW9aiW4M9lLBysTROM&s=10",
-"info": "Private tv *tv, películas & series*",
-"stations": [
-
-{"name": "PRIVATE TV",
+{"name": "REPLAY TV",
+"author": "ETELIO SALCEDO ©2024",
+"url": "https://raw.githubusercontent.com/Etelio79/A1/refs/heads/main/.w3u",
 "image": "https://yourclubox.com/box/Logos/img1.png",
-"url": "https://raw.githubusercontent.com/Pecosbills026/Pecos/A2/refs/heads/main/.w3u"},
-
-{"name": "TV ABIERTA",
-"image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
+"info": "Replay tv *tv, películas & series*",
+"telegram": "etelio_salcedo",
 "groups": [
 
-{"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
+{"name": "REPLAY TV",
+"image": "https://yourclubox.com/box/Logos/img1.png",
+"url": "https://raw.githubusercontent.com/Etelio79/A2/refs/heads/main/.w3u"},
 
-{"name":"ADN40","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLpaYsGCkxzWIuBqJSVHRy1_Ioul2xaD7SvyvyZGWjndfCxZuXKYXTLQ&s=10 ",
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4025"},
+{"name": "REPLAY MOVIES",
+"image": "https://yourclubox.com/box/Logos/img1.png",
+"url": "https://yourclubox.com/box/w3u/Movies02.m3u"},
 
-{"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
-
+{"name": "REPLAY SERIES",
+"image": "https://yourclubox.com/box/Logos/img1.png",
+"url": "https://yourclubox.com/box/w3u/Series02.m3u"}]},
