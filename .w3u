@@ -104,5 +104,26 @@
 {"name":"GOLDEN PREMIER", "image":"http://lonewolftvpr.com/logos/goldenpremier.png", 
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/83"},
 
+{"name":"HBO", "image":"http://lonewolftvpr.com/logos/hbo.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/120"},
+
+{"name":"HBO2", "image":"http://lonewolftvpr.com/logos/hbo2.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/121"},
+
+{"name":"HBO PLUS", "image":"http://lonewolftvpr.com/logos/hboplus.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/610"},
+
+{"name":"HBO POP", "image":"http://lonewolftvpr.com/logos/hbopop.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/117"},
+
+{"name":"HBO MUNDI", "image":"https://lonewolftvpr.com/logos/hbomundi.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/1628"},
+
+{"name":"HBO SIGNATURE", "image":"http://lonewolftvpr.com/logos/hbosignature.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/118"},
+
+{"name":"HBO XTREME", "image":"http://lonewolftvpr.com/logos/hboxtreme.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/298"},
+
 {"name":"NATGEO MUNDO","image":"https://lonewolftvpr.com/logos/natgeomundo.png",
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/1692"}]}]}]}
