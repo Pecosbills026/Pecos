@@ -89,8 +89,11 @@
 {"name":"DE PELICULA PLUS", "image":"https://lonewolftvpr.com/logos/depelicula.png", 
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/1699"},
 
-{"name":"FX MOVIE", "image":"https://i.imgur.com/MYDl0Ux.png", 
+{"name":"FX LATINO", "image":"https://i.imgur.com/MYDl0Ux.png", 
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/19"},
+
+{"name":"GOLDEN", "image":"https://lonewolftvpr.com/logos/golden.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/1624"},
 
 {"name":"NATGEO MUNDO","image":"https://lonewolftvpr.com/logos/natgeomundo.png",
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/1692"}]}]}]}
