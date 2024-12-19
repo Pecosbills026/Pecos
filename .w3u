@@ -125,5 +125,11 @@
 {"name":"HBO XTREME", "image":"http://lonewolftvpr.com/logos/hboxtreme.png", 
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/298"},
 
+{"name":"PARAMOUNT", "image":"http://lonewolftvpr.com/logos/paramount.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/1166"},
+
+{"name":"SONY CHANNEL", "image":"http://lonewolftvpr.com/logos/sony.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/16"},
+
 {"name":"NATGEO MUNDO","image":"https://lonewolftvpr.com/logos/natgeomundo.png",
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/1692"}]}]}]}
