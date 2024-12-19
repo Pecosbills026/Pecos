@@ -68,5 +68,14 @@
 {"name":"AXN", "image":"http://lonewolftvpr.com/logos/axn.png", 
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/21"},
 
-{"name":"NATGEO MUNDO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrXohPW6shdgni5kJ9Fnan6hzWax5yFYjWO6qWTH1ehW2umJ0r3-xq9Tg&s=10",
+{"name":"AZ CINEMA", "image":"http://lonewolftvpr.com/logos/Azcinema.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/72"},
+
+{"name":"CINECANAL", "image":"http://lonewolftvpr.com/logos/cinecanal.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/73"},
+
+{"name":"CINEMAX", "image":"http://lonewolftvpr.com/logos/cinemax.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/82"},
+
+{"name":"NATGEO MUNDO","image":"https://lonewolftvpr.com/logos/natgeomundo.png",
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/1692"}]}]}]}
