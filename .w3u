@@ -9,10 +9,6 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6_cYDlwEyQkQnERNZlEPJr9BdbbRiTJAEA&usqp=CAU", 
 "url": "https://raw.githubusercontent.com/Pecosbills026/Pecos02/refs/heads/main/.w3u"},
 
-{"name": "CANALES PREMIUN MEXICO",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_npad4G6AZzID7v3xthDq2rrhH_xqWdAybACJlL9qkw9_3OAq8RR9rJoM&s=10", 
-"url": "hhttps://raw.githubusercontent.com/Pecosbills026/Pecos03/refs/heads/main/.w3u"},
-
 {"name": "PELÍCULAS",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTBlTy-ybk5_1hes7D5xLZTs4pMXUFCdSlCUYMouxllHfORJKOTNBAM2kk&s=10", 
 "stations": [
@@ -57,6 +53,14 @@
 "url":"http://cineplay.vip:2086/movie/RaulBH/hJDvNupWnq/410328.mkv"},
 
 {"name":"Tornados (2024)","image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg",
-"url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1215400.mkv"},
+"url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1215400.mkv"}]},
 
+{"name": "SERIES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS489LeHvQ95fMEIh-NplDY601l8cQMoo3MA&usqp=CAU", 
+"stations": [
 
+{"name":"VALLENATO INTERNACIONAL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiBtwLnr8ZIyARph_j0yF2OIUC5uBJju_RA&usqp=CAU", 
+"url":"https://server80.servistreaming.com:3884/hybrid/play.m3u8"},
+
+{"name":"ÚLTIMO CANAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiBtwLnr8ZIyARph_j0yF2OIUC5uBJju_RA&usqp=CAU",
+"url":"https://glb.bozztv.com/glb/ssh101/telemed2/playlist.m3u8"}]}]}]}
