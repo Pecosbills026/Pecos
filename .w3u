@@ -59,7 +59,7 @@
 {"name":"Tornados (2024)","image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg",
 "url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1215400.mkv"}]},
 
-{"name": "SERIES RETRO 24/7",
+{"name": "SERIES 24/7",
 "image": "https://lonewolftvpr.com/logos/247.png", 
 "stations": [
 
@@ -69,5 +69,8 @@
 {"name":"CANTINFLAS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1rJJS-Hit7cns2iK-mfzeHjOzxcjuIs3Mw&usqp=CAU", 
 "url":"http://cineplay.vip:2086/RaulBH/hJDvNupWnq/25745"},
 
-{"name":"EL CHAVO HD","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSPMfhty6fYUIxzp5ea048QnK5Pa2xyGK7A&s",
-"url":"http://cineplay.vip:2086/RaulBH/hJDvNupWnq/277918"}]}]}]}
+{"name":"EL CHAPULIN", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGP76fCGoLkdWSauMYNZ5bBx4wObZ1j0yWzw&s", 
+"url":"http://fastream.xyz:8080/ZTARK/yKtcNMbk9z6s/704"},
+
+{"name":"EL CHAVO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSPMfhty6fYUIxzp5ea048QnK5Pa2xyGK7A&s",
+"url":"http://fastream.xyz:8080/ZTARK/yKtcNMbk9z6s/705"}]}]}]}
