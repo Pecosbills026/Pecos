@@ -59,12 +59,12 @@
 {"name":"Tornados (2024)","image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg",
 "url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1215400.mkv"}]},
 
-{"name": "SERIES",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS489LeHvQ95fMEIh-NplDY601l8cQMoo3MA&usqp=CAU", 
+{"name": "SERIES RETRO 24/7",
+"image": "https://lonewolftvpr.com/logos/247.png", 
 "stations": [
 
-{"name":"VALLENATO INTERNACIONAL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiBtwLnr8ZIyARph_j0yF2OIUC5uBJju_RA&usqp=CAU", 
-"url":"https://server80.servistreaming.com:3884/hybrid/play.m3u8"},
+{"name":"CHESPIRITO", "image":"hhttps://i.postimg.cc/Dzntck27/24y7.png", 
+"url":"http://fastream.xyz:8080/ZTARK/yKtcNMbk9z6s/691"},
 
 {"name":"ÚLTIMO CANAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiBtwLnr8ZIyARph_j0yF2OIUC5uBJju_RA&usqp=CAU",
 "url":"https://glb.bozztv.com/glb/ssh101/telemed2/playlist.m3u8"}]}]}]}
