@@ -63,8 +63,11 @@
 "image": "https://lonewolftvpr.com/logos/247.png", 
 "stations": [
 
-{"name":"CHESPIRITO", "image":"hhttps://i.postimg.cc/Dzntck27/24y7.png", 
+{"name":"CHESPIRITO", "image":"https://i.postimg.cc/Dzntck27/24y7.png", 
 "url":"http://fastream.xyz:8080/ZTARK/yKtcNMbk9z6s/691"},
 
-{"name":"ÚLTIMO CANAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiBtwLnr8ZIyARph_j0yF2OIUC5uBJju_RA&usqp=CAU",
-"url":"https://glb.bozztv.com/glb/ssh101/telemed2/playlist.m3u8"}]}]}]}
+{"name":"CANTINFLAS", "image":"https://i.postimg.cc/zvVhN0St/cantinflas.png", 
+"url":"hhttp://cineplay.vip:2086/RaulBH/hJDvNupWnq/25745"},
+
+{"name":"EL CHAVO HD","image":"https://i.postimg.cc/F1tqCcvT/el-chavo-del-8.png",
+"url":"http://cineplay.vip:2086/RaulBH/hJDvNupWnq/277918"}]}]}]}
