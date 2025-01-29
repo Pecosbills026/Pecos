@@ -21,6 +21,9 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTBlTy-ybk5_1hes7D5xLZTs4pMXUFCdSlCUYMouxllHfORJKOTNBAM2kk&s=10", 
 "stations": [
 
+{"name":"LONGLEGS (2024)", "image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg", 
+"url":"http://star-flix.net:8080/movie/luisbeltran/84Bhatf2TC/1741742.mp4"},
+
 {"name":"Mi Villano Favorito 4 (2024)", "image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg", 
 "url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1214752.mkv"},
 
