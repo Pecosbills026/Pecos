@@ -70,6 +70,12 @@
 {"name":"Arnold Schwarzenegger", "image":"https://m.media-amazon.com/images/I/71d5BW8T-tL._AC_UF1000,1000_QL80_.jpg", 
 "url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1575062"},
 
+{"name":"ALIEN", "image":"https://m.media-amazon.com/images/I/91uvgkhj88L._AC_SY606_.jpg", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1384563"},
+
+{"name":"TEINATOR", "image":"hhttps://www.cinesur.com/data/fotos/7.jpg", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1386340"},
+
 {"name":"Bruce Lee", "image":"https://m.media-amazon.com/images/I/516HZ5AGKXL._AC_UF894,1000_QL80_.jpg", 
 "url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1575046"},
 
@@ -77,6 +83,9 @@
 "url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1575038"},
 
 {"name":"Jet LI", "image":"https://m.media-amazon.com/images/I/81nDQsCKyFL._AC_UF1000,1000_QL80_.jpg", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1574034"},
+
+{"name":"IP MAN", "image":"https://pics.filmaffinity.com/Ip_Man-690169626-mmed.jpg", 
 "url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1574034"},
 
 {"name":"El Santo", "image":"https://m.media-amazon.com/images/I/813dqXjgfTL._AC_UF1000,1000_QL80_.jpg", 
@@ -92,7 +101,7 @@
 "url":"http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/94990"},
 
 {"name":"CANTINFLAS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1rJJS-Hit7cns2iK-mfzeHjOzxcjuIs3Mw&usqp=CAU", 
-"url":"http://redcoltelevision.info:25461/DIANAPAR2024/kWTSNRrMDDv2/246207"},
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1379249"},
 
 {"name":"CANTINFLAS OPC2", "image":"https://i.postimg.cc/zvVhN0St/cantinflas.png", 
 "url":"http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/95617"},
@@ -106,5 +115,8 @@
 {"name":"EL CHAVO", "image":"https://i.postimg.cc/F1tqCcvT/el-chavo-del-8.png", 
 "url":"http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/94993"},
 
-{"name":"EL CHAVO OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSPMfhty6fYUIxzp5ea048QnK5Pa2xyGK7A&s",
+{"name":"EL CHAVO OPC2", "image":"https://dl.dropboxusercontent.com/s/zi73fuz41zp56m8/elchavo.png", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1125753"},
+
+{"name":"EL CHAVO OPC3","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSPMfhty6fYUIxzp5ea048QnK5Pa2xyGK7A&s",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/744939725"}]}]}]}
