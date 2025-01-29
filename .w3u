@@ -63,9 +63,27 @@
 {"name":"Tornados (2024)","image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg",
 "url":"http://tv.nousiptv.com:8080/movie/Luciana2347/9473/1215400.mkv"}]},
 
-{"name": "SERIES 24/7",
+{"name": "CINE&SERIES 24/7",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1T1CFVK4oasrtyq9OAe0LzmWXsdLe_EzhEWd0GJNHMft4y2ibEfSV8Dg&s=10", 
 "stations": [
+
+{"name":"Arnold Schwarzenegger", "image":"https://m.media-amazon.com/images/I/71d5BW8T-tL._AC_UF1000,1000_QL80_.jpg", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1575062"},
+
+{"name":"Bruce Lee", "image":"https://m.media-amazon.com/images/I/516HZ5AGKXL._AC_UF894,1000_QL80_.jpg", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1575046"},
+
+{"name":"Jackie Chan", "image":"https://m.media-amazon.com/images/I/81nDQsCKyFL._AC_UF1000,1000_QL80_.jpg", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1575038"},
+
+{"name":"Jet LI", "image":"https://m.media-amazon.com/images/I/81nDQsCKyFL._AC_UF1000,1000_QL80_.jpg", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1574034"},
+
+{"name":"El Santo", "image":"https://m.media-amazon.com/images/I/813dqXjgfTL._AC_UF1000,1000_QL80_.jpg", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1573379"},
+
+{"name":"La India Maria", "image":"https://m.media-amazon.com/images/I/913inL0k9TL._AC_UF1000,1000_QL80_.jpg", 
+"url":"http://star-flix.net:8080/luisbeltran/84Bhatf2TC/1573378"},
 
 {"name":"CHESPIRITO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJ7KGKRQSE-Nanpbq55RQbC17hKpOvfl1VJipZnW4XqXBmMXYxac9oqM6&s=10", 
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/744939729"},
